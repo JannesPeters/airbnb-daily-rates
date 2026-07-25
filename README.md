@@ -6,7 +6,6 @@ Airbnb daily rates
 Sources:
 - Overview/search page: `bookmarklets/airbnb-overview-daily-rate.js`
 - Detail/listing page: `bookmarklets/airbnb-detail-daily-rate.js`
-- Legacy alias (overview): `bookmarklets/airbnb-daily-rate.js`
 Sample page source for parser checks: `airbnb-examples/www.airbnb.de-1784970399170.html`
 
 1. Open the file and copy the single-line `javascript:(...)` snippet.
